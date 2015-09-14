@@ -1,0 +1,6 @@
+F:\ACS560\hwk1\cSharp\cSharp\bin\Debug\cSharp.exe.config
+F:\ACS560\hwk1\cSharp\cSharp\bin\Debug\cSharp.exe
+F:\ACS560\hwk1\cSharp\cSharp\bin\Debug\cSharp.pdb
+F:\ACS560\hwk1\cSharp\cSharp\obj\Debug\cSharp.csprojResolveAssemblyReference.cache
+F:\ACS560\hwk1\cSharp\cSharp\obj\Debug\cSharp.exe
+F:\ACS560\hwk1\cSharp\cSharp\obj\Debug\cSharp.pdb
